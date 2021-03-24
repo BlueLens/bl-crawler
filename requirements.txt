@@ -30,7 +30,7 @@ python-dateutil==2.6.1
 queuelib==1.4.2
 redis==2.10.6
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 Scrapy==1.4.0
 service-identity==17.0.0
 six==1.11.0
